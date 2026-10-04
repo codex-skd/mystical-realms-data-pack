@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "Mystical Realms Data-Pack — silences errors from third-party mod content that breaks because an optional dependency (Ice and Fire, BYG) is missing or the data is malformed. Disables 26 unparseable cataclysm_spellbooks recipes + 1 justenoughbreeding recipe, rebuilds the Iron's Spellbooks spell_book_equip advancement without the Curios trigger, fixes the Farmer's Delight Pizza Lovers cheese_rec advancement, curates 5 IDAS chest loot tables, empties 2 IDAS BYG biome tags and swaps the IDAS dread_citadel spawner to vanilla mobs. Does not touch or require any of our mods.",
+    "pack_format": 48
+  }
+}
