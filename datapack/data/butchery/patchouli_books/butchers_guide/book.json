@@ -1,0 +1,11 @@
+{
+  "name": "Guía de Carnicería Vol. I",
+  "landing_text": "¡Bienvenido/a $(#f92020)$(playername)$() a la Guía de Carnicería! $(br)$(br)Carnicería es un mod que añade mecánicas realistas de procesado animal: los jugadores deben recolectar y procesar cadáveres de animales para obtener recursos adicionales.",
+  "version": 1,
+  "show_progress": false,
+  "show_toasts": false,
+  "creative_tab": "butchery:butchery_items",
+  "model": "butchery:bguide",
+  "book_texture": "butchery:textures/screens/book_butchery.png",
+  "use_resource_pack": true
+}

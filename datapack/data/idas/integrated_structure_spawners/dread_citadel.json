@@ -1,0 +1,20 @@
+{
+  "mobs": [
+    {
+      "name": "minecraft:wither_skeleton",
+      "weight": 15
+    },
+    {
+      "name": "minecraft:skeleton",
+      "weight": 15
+    },
+    {
+      "name": "minecraft:zombie",
+      "weight": 15
+    },
+    {
+      "name": "minecraft:vex",
+      "weight": 5
+    }
+  ]
+}

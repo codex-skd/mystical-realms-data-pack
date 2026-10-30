@@ -1,0 +1,9 @@
+{
+  "name": "Guía de Iron's Spellbooks",
+  "landing_text": "Iron's Spells 'n Spellbooks es un mod de lanzamiento de hechizos de inspiración RPG. Puedes luchar contra magos peligrosos, asaltar estructuras, explorar mazmorras, recolectar recursos y encontrar objetos mágicos poderosos. $(l:https://iron431.github.io/Irons-Spellbooks-Docs)Wiki externa aquí$(/l)",
+  "version": 1,
+  "pamphlet": true,
+  "show_progress": false,
+  "model": "irons_spellbooks:patchouli_book",
+  "use_resource_pack": true
+}
